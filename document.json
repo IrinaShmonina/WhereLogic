@@ -4,6 +4,27 @@
     "question": "Что это?",
     "photo": "https://i.ytimg.com/vi/-qj4O2aHQqc/maxresdefault.jpg",
     "answer": "Кот"
+  },
+    {
+    "question": "Что это?",
+    "photo": "https://goroskop.guru/wp-content/uploads/2018/01/a4a160312d1ee541f1ff08d5079b9b4c.jpg",
+    "answer": "Собака"
+  },
+    {
+    "question": "Что это?",
+    "photo": "https://n-w.tv/wp-content/uploads/2017/12/panda-1.jpg",
+    "answer": "Панда"
+  }
+    ,
+    {
+    "question": "Что это?",
+    "photo": "https://medialeaks.ru/wp-content/uploads/2017/07/shutterstock_443745397-1200x797-660x438.jpg",
+    "answer": "Попугай"
+  },
+    {
+    "question": "Что это?",
+    "photo": "http://s1.1zoom.me/b5050/237/Hamsters_Closeup_Glance_Chips_Funny_526610_1920x1200.jpg",
+    "answer": "Хомяк"
   }
   ]
 }
