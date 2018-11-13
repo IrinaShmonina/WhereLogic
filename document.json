@@ -1,164 +1,163 @@
 {
-  "array":[
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Балет.jpg",
-    "answer": "Балет"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Болезнь.jpg",
-    "answer": "Болезнь"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Бред.jpg",
-    "answer": "Бред"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Вера.jpg",
-    "answer": "Вера"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Греция.jpg",
-    "answer": "Греция"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Деньги.jpg",
-    "answer": "Деньги"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Зелень.jpg",
-    "answer": "Зелень"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Икра.jpg",
-    "answer": "Икра"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Камера.jpg",
-    "answer": "Камера"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Камчатка.jpg",
-    "answer": "Камчатка"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Корзина.jpg",
-    "answer": "Корзина"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Лето.jpg",
-    "answer": "Лето"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Маска.jpg",
-    "answer": "Маска"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Мать.jpg",
-    "answer": "Мать"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Москва.jpg",
-    "answer": "Москва"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Носители.jpg",
-    "answer": "Носители"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Обман.jpg",
-    "answer": "Обман"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Оборот.jpg",
-    "answer": "Оборот"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Подъем.jpg",
-    "answer": "Подъем"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Примета.jpg",
-    "answer": "Примета"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Простуда.jpg",
-    "answer": "Простуда"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Пункт.jpg",
-    "answer": "Пункт"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Пятьдесят.jpg",
-    "answer": "Пятьдесят"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Рост.jpg",
-    "answer": "Рост"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Свадьба.jpg",
-    "answer": "Свадьба"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Связка.jpg",
-    "answer": "Связка"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Спасатели.jpg",
-    "answer": "Спасатель"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Стихия.jpg",
-    "answer": "Стихия"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Торт.jpg",
-    "answer": "Торт"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Форма.jpg",
-    "answer": "Форма"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Час.jpg",
-    "answer": "Час"
-  },
-  {
-    "question": "Что это?",
-    "photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Ящик.jpg",
-    "answer": "Ящик"
-  }
-  ]
+	"array": [{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Балет.jpg",
+			"answer": "Балет"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Болезнь.jpg",
+			"answer": "Болезнь"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Бред.jpg",
+			"answer": "Бред"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Вера.jpg",
+			"answer": "Вера"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Греция.jpg",
+			"answer": "Греция"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Деньги.jpg",
+			"answer": "Деньги"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Зелень.jpg",
+			"answer": "Зелень"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Икра.jpg",
+			"answer": "Икра"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Камера.jpg",
+			"answer": "Камера"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Камчатка.jpg",
+			"answer": "Камчатка"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Корзина.jpg",
+			"answer": "Корзина"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Лето.jpg",
+			"answer": "Лето"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Маска.jpg",
+			"answer": "Маска"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Мать.jpg",
+			"answer": "Мать"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Москва.jpg",
+			"answer": "Москва"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Носители.jpg",
+			"answer": "Носители"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Обман.jpg",
+			"answer": "Обман"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Оборот.jpg",
+			"answer": "Оборот"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Подъем.jpg",
+			"answer": "Подъем"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Примета.jpg",
+			"answer": "Примета"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Простуда.jpg",
+			"answer": "Простуда"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Пункт.jpg",
+			"answer": "Пункт"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Пятьдесят.jpg",
+			"answer": "Пятьдесят"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Рост.jpg",
+			"answer": "Рост"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Свадьба.jpg",
+			"answer": "Свадьба"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Связка.jpg",
+			"answer": "Связка"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Спасатели.jpg",
+			"answer": "Спасатель"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Стихия.jpg",
+			"answer": "Стихия"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Торт.jpg",
+			"answer": "Торт"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Форма.jpg",
+			"answer": "Форма"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Час.jpg",
+			"answer": "Час"
+		},
+		{
+			"question": "Что это?",
+			"photo": "https://github.com/IrinaShmonina/WhereLogic/blob/master/ГдеЛогика/Ящик.jpg",
+			"answer": "Ящик"
+		}
+	]
 }
