@@ -47,6 +47,11 @@ while True:
         text = i['message']['text']
 
         if chat_id not in status:
+            r = requests.post('https://api.telegram.org/bot706745232:AAFALlvYfsHPd51a2WpXAt--arGb5m_q3mk/sendMessage',
+                              data={'chat_id': chat_id, 'text': 'Привет, друг! '
+                                                                'Давай сыграем в игру. В этом раунде тебе необходимо '
+                                                                'понять, что между картинками общего или что будет, '
+                                                                'если их объединить.'})
             question, photo, answer = chice(q)
             status[chat_id]=Player(st_question,'')
             send_question(chat_id, question, photo)
