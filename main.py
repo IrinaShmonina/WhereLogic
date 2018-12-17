@@ -1,12 +1,4 @@
 import requests
-import random
-
-
-class Player:
-    def __init__(self, status, answer):
-        self.status = status
-        self.answer = answer
-
 
 cur_id = 0
 status = {}
@@ -20,10 +12,10 @@ answer = ''
 q = requests.get('https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/document.json').json()
 
 def send_question(chat_id, question, photo):
-    r = requests.post('https://api.telegram.org/bot706745232:AAFALlvYfsHPd51a2WpXAt--arGb5m_q3mk/sendMessage',
+    r = requests.post('https://api.telegram.org/***/sendMessage',
                       data={'chat_id': chat_id, 'text': question})
 
-    r = requests.post('https://api.telegram.org/bot706745232:AAFALlvYfsHPd51a2WpXAt--arGb5m_q3mk/sendphoto',
+    r = requests.post('https://api.telegram.org/***/sendphoto',
                       data={'chat_id': chat_id, 'photo': photo})
     pass
 

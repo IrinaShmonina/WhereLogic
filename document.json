@@ -2,17 +2,21 @@
 	"array": [{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/анекдот.jpg",
-			"answer": "Анекдот"
+			"answer": "Анекдот",
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/артхаус.jpg",
-			"answer": "Артхаус"
+			"answer": "Артхаус",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/артхаус.jpg",
+			"level": 2
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/барокко.jpg",
-			"answer": "Барокко"
+			"answer": "Барокко",
+			"level": 3
 		},
 		{
 			"question": "Что общего?",
@@ -456,4 +460,3 @@
 		}
 	]
 }
-
