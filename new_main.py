@@ -32,6 +32,8 @@ class QuestionStorage:
         self.url = json_url
         with open('document.json', encoding='utf8') as fp:
             self.json = json.loads(fp.read())  # requests.get(self.url).json()
+            self.min_level = 1
+            self.max_level = 3
 
     def get_questions(self, level: int) -> List[Question]:
         array = self.json['array']
@@ -131,6 +133,9 @@ class Game:
 
     def is_over(self):
         return self._is_over
+
+    def get_messages_count(self):
+        return len(self._messages)
 
 
 class BotBase:
