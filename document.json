@@ -2,461 +2,1553 @@
 	"array": [{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/анекдот.jpg",
+			"hint": "Шутка, короткая смешная история",
 			"answer": "Анекдот",
+			
 			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/артхаус.jpg",
+			"hint": "Ниша фильмов, не расчитанных на широкую аудиторию",
 			"answer": "Артхаус",
-			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/артхаус.jpg",
-			"level": 2
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/барокко.jpg",
+			"hint": "Стиль, появившийся в эпоху Позднего Возрождения",
 			"answer": "Барокко",
-			"level": 3
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/безумие.jpg",
-			"answer": "Безумие"
+			"hint": "Тяжелое психическое расстройство",
+			"answer": "Безумие",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/бигль.jpg",
-			"answer": "Бигль"
+			"hint": "Великобританская  охотничья порода собак",
+			"answer": "Бигль",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/болото.jpg",
-			"answer": "Болото"
+			"hint": "Здесь живет Кикимора",
+			"answer": "Болото",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/венец.jpg",
-			"answer": "Венец"
+			"hint": "Человек - ... природы",
+			"answer": "Венец",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/голод.jpg",
-			"answer": "Голод"
+			"hint": "Ощущение потребности в пище",
+			"answer": "Голод",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/горбатый.jpg",
-			"answer": "Горбатый"
+			"hint": "Главарь банды Черная Кошка из фильма Место встречи изименить нельзя",
+			"answer": "Горбатый",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/город.jpg",
-			"answer": "Город"
+			"hint": "Бетонные джунгли",
+			"answer": "Город",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/готика.jpg",
-			"answer": "Готика"
+			"hint": "Мрачный стиль средневекового искусства",
+			"answer": "Готика",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/гримаса.jpg",
-			"answer": "Гримаса"
+			"hint": "Искажение выражения лица",
+			"answer": "Гримаса",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/гуманизм.jpg",
-			"answer": "Гуманизм"
+			"hint": "Человечность",
+			"answer": "Гуманизм",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/дата.jpg",
-			"answer": "Дата"
+			"hint": "Календарный номер дня",
+			"answer": "Дата",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/движение.jpg",
-			"answer": "Движение"
+			"hint": "Изменение положения с течением времени",
+			"answer": "Движение",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/детектив.jpg",
-			"answer": "Детектив"
+			"hint": "Профессия Шерлока Холмса",
+			"answer": "Детектив",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/дизайн.jpg",
-			"answer": "Дизайн"
+			"hint": "Проектирование оригинальных эстетических свойств",
+			"answer": "Дизайн",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/друзья.jpg",
-			"answer": "Друзья"
+			"hint": "Американский комедийный сериал",
+			"answer": "Друзья",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/емкость.jpg",
-			"answer": "Емкость"
+			"hint": "Вместимость сосуда для транспортировки жидкости",
+			"answer": "Емкость",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/железный.jpg",
-			"answer": "Железный"
+			"hint": "Тони Старк",
+			"answer": "Железный",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/желтый.jpg",
-			"answer": "Желтый"
+			"hint": "Яркий цвет",
+			"answer": "Желтый",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/забота.jpg",
-			"answer": "Забота"
+			"hint": "Проявление беспокойства о ком-либо",
+			"answer": "Забота",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/замок.jpg",
-			"answer": "Замок"
+			"hint": "Может быть дверным, а может средневековым",
+			"answer": "Замок",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/запчасть.jpg",
-			"answer": "Запчасть"
+			"hint": "Деталь",
+			"answer": "Запчасть",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ингаляция.jpg",
-			"answer": "Ингаляция"
+			"hint": "Введение лекарственных средств методом вдыхания газа, пара или дыма",
+			"answer": "Ингаляция",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/индия.jpg",
-			"answer": "Индия"
+			"hint": "Государство в Южной Азии",
+			"answer": "Индия",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/история.jpg",
-			"answer": "История"
+			"hint": "Наука о прошлом и настоящем",
+			"answer": "История",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/карты.jpg",
-			"answer": "Карты"
+			"hint": "Тройка, Семерка, Туз",
+			"answer": "Карты",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/кислый.jpg",
-			"answer": "Кислый"
+			"hint": "Антоним - сладкий",
+			"answer": "Кислый",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/компрессор.jpg",
-			"answer": "Компрессор"
+			"hint": "Машина для повышения давления и перемешения газа",
+			"answer": "Компрессор",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/конец.jpg",
-			"answer": "Конец"
+			"hint": "Окончание, финал",
+			"answer": "Конец",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/конкурс.jpg",
-			"answer": "Конкурс"
+			"hint": "Соревнование",
+			"answer": "Конкурс",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/контраст.jpg",
-			"answer": "Контраст"
+			"hint": "Значительная разница",
+			"answer": "Контраст",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/коробка.jpg",
-			"answer": "Коробка"
+			"hint": "То, во что запаковывают подарки",
+			"answer": "Коробка",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/корпус.jpg",
-			"answer": "Корпус"
+			"hint": "Внешняя оболочка",
+			"answer": "Корпус",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/костюм.jpg",
-			"answer": "Костюм"
+			"hint": "Наряд",
+			"answer": "Костюм",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/кран.jpg",
-			"answer": "Кран"
+			"hint": "Трубопроводный, грузоподъемный, автомобильный",
+			"answer": "Кран",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/красный.jpg",
-			"answer": "Красный"
+			"hint": "Яркий цвет",
+			"answer": "Красный",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/круг.jpg",
-			"answer": "Круг"
+			"hint": "Геометрическая фигура без углов",
+			"answer": "Круг",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/круто.jpg",
-			"answer": "Круто"
+			"hint": "Наречие к прилогательному крутой",
+			"answer": "Круто",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ломтик.jpg",
-			"answer": "Ломтик"
+			"hint": "Небольшой кусочек чего-либо",
+			"answer": "Ломтик",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/машина.jpg",
-			"answer": "Машина"
+			"hint": "Автомобиль",
+			"answer": "Машина",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/мощь.jpg",
-			"answer": "Мощь"
+			"hint": "Сила",
+			"answer": "Мощь",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/мустанг.jpg",
-			"answer": "Мустанг"
+			"hint": "Одичавщая домашняя лошадь",
+			"answer": "Мустанг",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/надпись.jpg",
-			"answer": "Надпись"
+			"hint": "Короткое изречение, записаннное на поверхности",
+			"answer": "Надпись",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/напор.jpg",
-			"answer": "Напор"
+			"hint": "Высокое давление",
+			"answer": "Напор",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/нектар.jpg",
-			"answer": "Нектар"
+			"hint": "Сок, выделяемый цветами",
+			"answer": "Нектар",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/обаяние.jpg",
-			"answer": "Обаяние"
+			"hint": "Свойство очаровывать",
+			"answer": "Обаяние",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/обоняние.jpg",
-			"answer": "Обоняние"
+			"hint": "Способность воспринимать запахи",
+			"answer": "Обоняние",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/образ.jpg",
-			"answer": "Образ"
+			"hint": "Виртуальный, зрительный, художественный, стильный",
+			"answer": "Образ",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/оператор.jpg",
-			"answer": "Оператор"
+			"hint": "Профессия по управлению работой какого-либо оборудования",
+			"answer": "Оператор",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/остров.jpg",
-			"answer": "Остров"
+			"hint": "Клочок земли в океане",
+			"answer": "Остров",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/офис.jpg",
-			"answer": "Офис"
+			"hint": "Помещение, в котором работают служащие предприятия",
+			"answer": "Офис",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/оценка.jpg",
-			"answer": "Оценка"
+			"hint": "Отметка",
+			"answer": "Оценка",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/пассажир.jpg",
-			"answer": "Пассажир"
+			"hint": "Человек, не управляющий транспортным средством",
+			"answer": "Пассажир",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/пикассо.jpg",
-			"answer": "Пикассо"
+			"hint": "Фамилия итальянского художника и скульптора",
+			"answer": "Пикассо",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/погода.jpg",
-			"answer": "Погода"
+			"hint": "У природы нет плохой ...",
+			"answer": "Погода",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/позитив.jpg",
-			"answer": "Позитив"
+			"hint": "Положительные эмоции, энергетика",
+			"answer": "Позитив",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/позиция.jpg",
-			"answer": "Позиция"
+			"hint": "Точная локация",
+			"answer": "Позиция",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/полоса.jpg",
-			"answer": "Полоса"
+			"hint": "Размеченное пространство для движения транспорта",
+			"answer": "Полоса",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/порода.jpg",
-			"answer": "Порода"
+			"hint": "Классификация животных",
+			"answer": "Порода",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/посадка.jpg",
-			"answer": "Посадка"
+			"hint": "Приземление",
+			"answer": "Посадка",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/поток.jpg",
-			"answer": "Поток"
+			"hint": "Направленное насыщенное движение",
+			"answer": "Поток",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/пустота.jpg",
-			"answer": "Пустота"
+			"hint": "Отсутствие чего-либо",
+			"answer": "Пустота",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/религия.jpg",
-			"answer": "Религия"
+			"hint": "Вероисповедание",
+			"answer": "Религия",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/рококо.jpg",
-			"answer": "Рококо"
+			"hint": "Высшая стадия искусства борокко",
+			"answer": "Рококо",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/романтика.jpg",
-			"answer": "Романтика"
+			"hint": "Мечтательное, эмоционально возвышенное состояние",
+			"answer": "Романтика",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/салат.jpg",
-			"answer": "Салат"
+			"hint": "Греческий, крабовый, оливье",
+			"answer": "Салат",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/сборная.jpg",
-			"answer": "Сборная"
+			"hint": "Команда",
+			"answer": "Сборная",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/север.jpg",
-			"answer": "Север"
+			"hint": "Антоним - юг",
+			"answer": "Север",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/сезон.jpg",
-			"answer": "Сезон"
+			"hint": "Время года",
+			"answer": "Сезон",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/серый.jpg",
-			"answer": "Серый"
+			"hint": "Цвет, полученный из черного и белого",
+			"answer": "Серый",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/спицы.jpg",
-			"answer": "Спицы"
+			"hint": "Вязальные принадлежности",
+			"answer": "Спицы",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/спорт.jpg",
-			"answer": "Спорт"
+			"hint": "Активные физические упражнения",
+			"answer": "Спорт",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/таймер.jpg",
-			"answer": "Таймер"
+			"hint": "Прибор для измерения времени",
+			"answer": "Таймер",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/тайна.jpg",
-			"answer": "Тайна"
+			"hint": "Секрет",
+			"answer": "Тайна",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/техно.jpg",
-			"answer": "Техно"
+			"hint": "Жанр электронной музыки",
+			"answer": "Техно",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/тиенер.jpg",
-			"answer": "Тренер"
+			"hint": "Руководитель спортивной команды",
+			"answer": "Тренер",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/толпа.jpg",
-			"answer": "Толпа"
+			"hint": "Высокая концентрация людей",
+			"answer": "Толпа",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/тревога.jpg",
-			"answer": "Тревога"
+			"hint": "Ощущение неопределенности, ожидание отрицательных событий",
+			"answer": "Тревога",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/уют.jpg",
-			"answer": "Уют"
+			"hint": "Комфорт, удобство",
+			"answer": "Уют",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/философия.jpg",
-			"answer": "Философия"
+			"hint": "Наука о познании мира",
+			"answer": "Философия",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/фото.jpg",
-			"answer": "Фото"
+			"hint": "Снимок",
+			"answer": "Фото",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/французы.jpg",
-			"answer": "Французы"
+			"hint": "Национальность",
+			"answer": "Французы",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/хвост.jpg",
-			"answer": "Хвост"
+			"hint": "Им виляют собаки",
+			"answer": "Хвост",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/хобби.jpg",
-			"answer": "Хобби"
+			"hint": "Увлечение",
+			"answer": "Хобби",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/центр.jpg",
-			"answer": "Центр"
+			"hint": "Середина",
+			"answer": "Центр",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/чай.jpg",
-			"answer": "Чай"
+			"hint": "Напиток из листьев",
+			"answer": "Чай",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/чакра.jpg",
-			"answer": "Чакра"
+			"hint": "Центр силы и сознания в индуизме",
+			"answer": "Чакра",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/чистка.jpg",
-			"answer": "Чистка"
+			"hint": "Удаление лишних элементов",
+			"answer": "Чистка",
+			
+			"level": 1
 		},
 		{
 			"question": "Что общего?",
 			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/шатаж.jpg",
-			"answer": "Шантаж"
+			"hint": "Манипуляция человеком с помощью компромата",
+			"answer": "Шантаж",
+			
+			"level": 1
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/африка.jpg",
+			"hint": "Второй по площади материк",
+			"answer": "Африка",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/африка_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/башня.jpg",
+			"hint": "Высокое инженерное сооружение",
+			"answer": "Башня",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/башня_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/гак.jpg",
+			"hint": "Кованный крюк из мягкой стали",
+			"answer": "Гак",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/гак_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/глушитель.jpg",
+			"hint": "Устройство для снижения шума",
+			"answer": "Глушитель",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/глушитель_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/груз.jpg",
+			"hint": "Перемещаемый объект",
+			"answer": "Груз",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/груз_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/замок.jpg",
+			"hint": "Может быть дверным, а может средневековым",
+			"answer": "Замок",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/замок_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/запаска.jpg",
+			"hint": "Дополнительное колесо",
+			"answer": "Запаска",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/запаска_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/звезда.jpg",
+			"hint": "Пятиконечная фигура",
+			"answer": "Звезда",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/звезда_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/звезда2.jpg",
+			"hint": "Пятиконечная фигура",
+			"answer": "Звезда",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/звезда2_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/зеркало.jpg",
+			"hint": "Отражающая поверхность",
+			"answer": "Зеркало",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/зеркало_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/значок.jpg",
+			"hint": "Жетон",
+			"answer": "Значок",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/значок_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/колонна.jpg",
+			"hint": "Столб цилиндрической формы",
+			"answer": "Колонна",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/колонна_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/костер.jpg",
+			"hint": "Контролируемый огонь",
+			"answer": "Костер",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/костер_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/кран.jpg",
+			"hint": "Подъемный ...",
+			"answer": "Кран",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/кран_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/крылья.jpg",
+			"hint": "Часть тела, рпедназначенная для полета",
+			"answer": "Крылья",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/крылья_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/ленин.jpg",
+			"hint": "Создатель первого социалистического государства",
+			"answer": "Ленин",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/ленин_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/лист.jpg",
+			"hint": "Кленовый ...",
+			"answer": "Лист",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/лист_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/логотип.jpg",
+			"hint": "Графический знак, эмблема",
+			"answer": "Логотип",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/логотип_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/лыжа.jpg",
+			"hint": "Приспособление для перемещения по снегу",
+			"answer": "Лыжа",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/лыжа_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/мальчик.jpg",
+			"hint": "Ребенок мужского пола",
+			"answer": "Мальчик",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/мальчик_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/манометр.jpg",
+			"hint": "Прибор для измерения давления жидкости или газа",
+			"answer": "Манометр",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/манометр_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/марки.jpg",
+			"hint": "Их собирает филателист",
+			"answer": "Марки",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/марки_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/марти.jpg",
+			"hint": "Имя зебры из мультфильма",
+			"answer": "Марти",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/марти_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/маяк.jpg",
+			"hint": "Средство навигации морского транспорта",
+			"answer": "Маяк",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/маяк_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/медведи.jpg",
+			"hint": "Крупное млекопитающее",
+			"answer": "Медведи",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/медведи_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/мигалка.jpg",
+			"hint": "Световой сигнал",
+			"answer": "Мигалка",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/мигалка_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/мост.jpg",
+			"hint": "Средство соединения двух берегов",
+			"answer": "Мост",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/мост_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/мяч.jpg",
+			"hint": "Спортивное название шара",
+			"answer": "Мяч",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/мяч_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/опора.jpg",
+			"hint": "Надежда и ...",
+			"answer": "Опора",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/опора_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/пастух.jpg",
+			"hint": "Тот, кому подчиняется стадо",
+			"answer": "Пастух",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/пастух_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/педаль.jpg",
+			"hint": "Рычаг, нажимаемый ногой",
+			"answer": "Педаль",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/педаль_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/персики.jpg",
+			"hint": "Фрукты",
+			"answer": "Персики",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/персики_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/подножка.jpg",
+			"hint": "Приспособление для удержания транспорта в вертикальном положении",
+			"answer": "Подножка",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/подножка_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/портфель.jpg",
+			"hint": "Рюкзак",
+			"answer": "Портфель",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/портфель_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/приборы.jpg",
+			"hint": "Столовые ...",
+			"answer": "Приборы",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/приборы_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/птицы.jpg",
+			"hint": "Крылатые создания",
+			"answer": "Птицы",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/птицы_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/рога.jpg",
+			"hint": "Образование на голове парнокопытных",
+			"answer": "Рога",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/рога_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/ручка.jpg",
+			"hint": "Дерни за ..., дверь то и откроется",
+			"answer": "Ручка",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/ручка_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/рыбак.jpg",
+			"hint": "Охотник на рыб",
+			"answer": "Рыбак",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/рыбак_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/снегурочка.jpg",
+			"hint": "Внучка Деда Мороза",
+			"answer": "Снегурочка",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/снегурочка_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/стрелки.jpg",
+			"hint": "Часовая и минутная",
+			"answer": "Стрелки",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/стрелки_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/сфинкс.jpg",
+			"hint": "Охранник пирамид фараонов",
+			"answer": "Сфинкс",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/сфинкс_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/тень.jpg",
+			"hint": "Антоним - свет",
+			"answer": "Тень",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/тень_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/тося.jpg",
+			"hint": "Имя главной героини фильма Девчата",
+			"answer": "Тося",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/тося_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/трамплин.jpg",
+			"hint": "Приспособление для трюков",
+			"answer": "Трамплин",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/трамплин_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/трубочка.jpg",
+			"hint": "Спортивное сооружение для совершения трюков",
+			"answer": "Трубочка",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/трубочка_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/фары.jpg",
+			"hint": "Источник света на транспорте",
+			"answer": "Фары",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/фары_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/флаг.jpg",
+			"hint": "Один из символов государства",
+			"answer": "Флаг",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/флаг_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/фонари.jpg",
+			"hint": "Уличные источники света",
+			"answer": "Фонари",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/фонари_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/хвост.jpg",
+			"hint": "Им виляют собаки",
+			"answer": "Хвост",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/хвост_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/часы.jpg",
+			"hint": "Биг-Бэн",
+			"answer": "Часы",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/часы_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/шильдик.jpg",
+			"hint": "Информационная табличка",
+			"answer": "Шильдик",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/шильдик_о.jpg",
+			"level": 2
+		},{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/башня.jpg",
+			"hint": "Высокое инженерное сооружение",
+			"answer": "Башня",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/башня_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/гак.jpg",
+			"hint": "Кованный крюк из мягкой стали",
+			"answer": "Гак",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/гак_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/глушитель.jpg",
+			"hint": "Устройство для снижения шума",
+			"answer": "Глушитель",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/глушитель_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/груз.jpg",
+			"hint": "Перемещаемый объект",
+			"answer": "Груз",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/груз_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/замок.jpg",
+			"hint": "Может быть дверным, а может средневековым",
+			"answer": "Замок",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/замок_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/запаска.jpg",
+			"hint": "Дополнительное колесо",
+			"answer": "Запаска",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/запаска_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/звезда.jpg",
+			"hint": "Пятиконечная фигура",
+			"answer": "Звезда",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/звезда_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/звезда2.jpg",
+			"hint": "Пятиконечная фигура",
+			"answer": "Звезда",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/звезда2_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/зеркало.jpg",
+			"hint": "Отражающая поверхность",
+			"answer": "Зеркало",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/зеркало_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/значок.jpg",
+			"hint": "Жетон",
+			"answer": "Значок",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/значок_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/колонна.jpg",
+			"hint": "Столб цилиндрической формы",
+			"answer": "Колонна",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/колонна_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/костер.jpg",
+			"hint": "Контролируемый огонь",
+			"answer": "Костер",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/костер_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/кран.jpg",
+			"hint": "Подъемный ...",
+			"answer": "Кран",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/кран_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/крылья.jpg",
+			"hint": "Часть тела, рпедназначенная для полета",
+			"answer": "Крылья",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/крылья_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/ленин.jpg",
+			"hint": "Создатель первого социалистического государства",
+			"answer": "Ленин",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/ленин_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/лист.jpg",
+			"hint": "Кленовый ...",
+			"answer": "Лист",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/лист_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/логотип.jpg",
+			"hint": "Графический знак, эмблема",
+			"answer": "Логотип",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/логотип_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/лыжа.jpg",
+			"hint": "Приспособление для перемещения по снегу",
+			"answer": "Лыжа",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/лыжа_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/мальчик.jpg",
+			"hint": "Ребенок мужского пола",
+			"answer": "Мальчик",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/мальчик_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/манометр.jpg",
+			"hint": "Прибор для измерения давления жидкости или газа",
+			"answer": "Манометр",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/манометр_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/марки.jpg",
+			"hint": "Их собирает филателист",
+			"answer": "Марки",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/марки_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/марти.jpg",
+			"hint": "Имя зебры из мультфильма",
+			"answer": "Марти",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/марти_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/маяк.jpg",
+			"hint": "Средство навигации морского транспорта",
+			"answer": "Маяк",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/маяк_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/медведи.jpg",
+			"hint": "Крупное млекопитающее",
+			"answer": "Медведи",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/медведи_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/мигалка.jpg",
+			"hint": "Световой сигнал",
+			"answer": "Мигалка",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/мигалка_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/мост.jpg",
+			"hint": "Средство соединения двух берегов",
+			"answer": "Мост",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/мост_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/мяч.jpg",
+			"hint": "Спортивное название шара",
+			"answer": "Мяч",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/мяч_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/опора.jpg",
+			"hint": "Надежда и ...",
+			"answer": "Опора",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/опора_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/пастух.jpg",
+			"hint": "Тот, кому подчиняется стадо",
+			"answer": "Пастух",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/пастух_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/педаль.jpg",
+			"hint": "Рычаг, нажимаемый ногой",
+			"answer": "Педаль",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/педаль_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/персики.jpg",
+			"hint": "Фрукты",
+			"answer": "Персики",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/персики_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/подножка.jpg",
+			"hint": "Приспособление для удержания транспорта в вертикальном положении",
+			"answer": "Подножка",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/подножка_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/портфель.jpg",
+			"hint": "Рюкзак",
+			"answer": "Портфель",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/портфель_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/приборы.jpg",
+			"hint": "Столовые ...",
+			"answer": "Приборы",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/приборы_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/птицы.jpg",
+			"hint": "Крылатые создания",
+			"answer": "Птицы",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/птицы_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/рога.jpg",
+			"hint": "Образование на голове парнокопытных",
+			"answer": "Рога",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/рога_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/ручка.jpg",
+			"hint": "Дерни за ..., дверь то и откроется",
+			"answer": "Ручка",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/ручка_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/рыбак.jpg",
+			"hint": "Охотник на рыб",
+			"answer": "Рыбак",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/рыбак_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/снегурочка.jpg",
+			"hint": "Внучка Деда Мороза",
+			"answer": "Снегурочка",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/снегурочка_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/стрелки.jpg",
+			"hint": "Часовая и минутная",
+			"answer": "Стрелки",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/стрелки_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/сфинкс.jpg",
+			"hint": "Охранник пирамид фараонов",
+			"answer": "Сфинкс",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/сфинкс_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/тень.jpg",
+			"hint": "Антоним - свет",
+			"answer": "Тень",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/тень_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/тося.jpg",
+			"hint": "Имя главной героини фильма Девчата",
+			"answer": "Тося",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/тося_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/трамплин.jpg",
+			"hint": "Приспособление для трюков",
+			"answer": "Трамплин",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/трамплин_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/трубочка.jpg",
+			"hint": "Спортивное сооружение для совершения трюков",
+			"answer": "Трубочка",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/трубочка_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/фары.jpg",
+			"hint": "Источник света на транспорте",
+			"answer": "Фары",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/фары_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/флаг.jpg",
+			"hint": "Один из символов государства",
+			"answer": "Флаг",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/флаг_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/фонари.jpg",
+			"hint": "Уличные источники света",
+			"answer": "Фонари",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/фонари_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/хвост.jpg",
+			"hint": "Им виляют собаки",
+			"answer": "Хвост",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/хвост_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/часы.jpg",
+			"hint": "Биг-Бэн",
+			"answer": "Часы",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/часы_о.jpg",
+			"level": 2
+		},
+		{
+			"question": "Чего не хватает?",
+			"photo": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/шильдик.jpg",
+			"hint": "Информационная табличка",
+			"answer": "Шильдик",
+			"accept": "https://raw.githubusercontent.com/IrinaShmonina/WhereLogic/master/ГдеЛогика/ГдеЛогика2/ГдеЛогика2/шильдик_о.jpg",
+			"level": 2
 		}
 	]
 }
