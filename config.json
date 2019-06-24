@@ -1,0 +1,8 @@
+{
+  "TG_TOKEN": "",
+  "VK_TOKEN": "",
+  "VK_GROUP_ID": 0,
+  "PSQL_CONNECTION_STRING":"",
+  "GAME_DATABASE_NAME":"",
+  "SCORE_DATABASE_NAME":""
+}

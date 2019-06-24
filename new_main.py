@@ -1,6 +1,6 @@
 import traceback
 from telegram.ext import Updater
-from telegram.ext import MessageHandler, Filters, CommandHandler
+from telegram.ext import MessageHandler, Filters
 from telegram import ReplyKeyboardMarkup, ParseMode
 from collections import deque
 from typing import List
@@ -11,11 +11,15 @@ import random
 import io
 import sys
 
-TG_TOKEN = '706745232:AAFALlvYfsHPd51a2WpXAt--arGb5m_q3mk'
-VK_TOKEN = 'c7b5a6a37b707e62b9f78d81c1b53076e2907621fde92ec8ef75c75e0584e1c4f9c0c4afc2d5bde0ea16c'
-VK_GROUP_ID = '183568730'
-PSQL_CONNECTION_STRING = 'postgres://sduggktd:xMXjBx0bvCZ-dAwsdiE5bJH-v3idWARj@raja.db.elephantsql.com:5432/sduggktd'
-GAME_DATABASE_NAME = 'game'
+with open('config.json') as json_data_file:
+    config = json.load(json_data_file)
+
+TG_TOKEN = config["TG_TOKEN"]
+VK_TOKEN = config["VK_TOKEN"]
+VK_GROUP_ID = config["VK_GROUP_ID"]
+PSQL_CONNECTION_STRING = config["PSQL_CONNECTION_STRING"]
+GAME_DATABASE_NAME = config["GAME_DATABASE_NAME"]
+SCORE_DATABASE_NAME = config["SCORE_DATABASE_NAME"]
 
 LEVELS_COUNT = 2
 ROUNDS_COUNT = 2
@@ -47,13 +51,38 @@ class QuestionStorage:
 
     def store_question(self, q: Question):
         curr = self.db.cursor()
-        sql_request = "INSERT INTO {} (question, photo, hint, answer, accept, level) VALUES ('{}', '{}', '{}', '{}', {}, {})".format(GAME_DATABASE_NAME, q.question, q.photo,
-                                                                          q.hint, q.answer,
-                                                                          "'" + q.accept + "'" if q.accept else "NULL",
-                                                                          q.level)
+        sql_request = "INSERT INTO {} (question, photo, hint, answer, accept, level) VALUES ('{}', '{}', '{}', '{}', {}, {})"\
+            .format(
+            GAME_DATABASE_NAME,
+            q.question,
+            q.photo,
+            q.hint,
+            q.answer,
+            "'" + q.accept + "'" if q.accept else "NULL",
+            q.level)
         curr.execute(sql_request)
         self.db.commit()
         curr.close()
+
+    def save_score(self, id, score):
+        curr = self.db.cursor()
+        sql_request = \
+            "INSERT INTO game_score (id, total_games, total_score)\
+            VALUES ('{0}', 1, {1})\
+            ON CONFLICT (id) \
+            DO\
+            UPDATE\
+            SET total_games=game_score.total_games+1, total_score=game_score.total_score+{1}"\
+            .format(id, score)
+        curr.execute(sql_request)
+        self.db.commit()
+        curr.close()
+
+    def get_score_and_games(self, id):
+        curr = self.db.cursor()
+        sql_request = "SELECT total_score, total_games total FROM game_score WHERE id='{}'".format(id)
+        curr.execute(sql_request)
+        return list(curr.fetchall())[0]
 
 
 class GameMessage:
@@ -62,9 +91,10 @@ class GameMessage:
         self.photo = photo
         self.keyboard = keyboard
 
+DEFAULT_KEYBOARD = [[HELP_MESSAGE, GIVE_UP_MESSAGE]]
 
 class Game:
-    def __init__(self, question_storage: QuestionStorage):
+    def __init__(self, question_storage: QuestionStorage, id):
         self.question_storage = question_storage
         self._level = 1
         self._round = 1
@@ -72,60 +102,70 @@ class Game:
         self._current_question = None  # type: Question
         self._messages = deque()
         self._used_questions = set()
+        self._score = 0
+        self._id = id
 
-        self._add_text('Итакс.... Начинаем игру!!')
+        self._add_message('Итакс.... Начинаем игру!!')
 
-    def _add_message(self, message: GameMessage):
-        self._messages.append(message)
+    def _add_message(self, text=None, keyboard=None, photo=None):
+        self._messages.append(GameMessage(text, photo, keyboard))
 
-    def _add_text(self, text):
-        self._add_message(GameMessage(text=text))
+    def _game_over(self):
+        self._is_over = True
+        score = max(0, self._score)
+        self.question_storage.save_score(self._id, score)
+        total_score, total_games = self.question_storage.get_score_and_games(self._id)
+        self._add_message('Ты сыграл свою {}ю игру. Твой счёт в этой игре: {}.\nТвой общий счёт: {}'.format(
+            total_games, score, total_score))
 
     def next_question(self):
         questions = self.question_storage.get_questions(self._level)
         available_questions = [quest for quest in questions if quest.photo not in self._used_questions]
         if not available_questions:
-            self._add_message(GameMessage(
+            self._add_message(
                 text='Вопросы закончились =( Ты проиграл!',
                 keyboard=[['Начать играть!']]
-            ))
-            self._is_over = True
+            )
+            self._game_over()
             return
 
         q = random.choice(available_questions)
         self._used_questions.add(q.photo)
-        self._add_message(GameMessage(
+        self._add_message(
             text=q.question,
             photo=q.photo,
-            keyboard=[[HELP_MESSAGE, GIVE_UP_MESSAGE]]))
+            keyboard=DEFAULT_KEYBOARD)
         self._current_question = q
 
     def set_answer(self, answer):
         correct = answer.lower() == self._current_question.answer.lower()
 
         if correct:
-            self._add_message(GameMessage(text='Да, правильно!'))
-            self._add_message(GameMessage(photo=self._current_question.accept))
+            self._score += 2
+            self._add_message(text='Да, правильно!')
+            self._add_message(photo=self._current_question.accept)
             self._round += 1
             if self._round > ROUNDS_COUNT:
                 self._level += 1
                 self._round = 1
                 if self._level > LEVELS_COUNT:
-                    self._add_message(GameMessage(text='Поздравляю! Все уровни пройдены!', keyboard=[['Давай по новой!']]))
-                    self._is_over = True
+                    self._add_message(text='Поздравляю! Все уровни пройдены!', keyboard=[['Давай по новой!']])
+                    self._game_over()
                 else:
-                    self._add_message(GameMessage(text='Переходим на следующий уровень!'))
+                    self._add_message(text='Переходим на следующий уровень!')
 
         else:
-            self._add_message(GameMessage(text='Нет! Попробуй еще раз.'))
+            self._add_message(text='Нет! Попробуй еще раз.', keyboard=DEFAULT_KEYBOARD)
 
         return correct
 
     def request_help(self):
-        self._add_text(self._current_question.hint)
+        self._score -= 1
+        self._add_message(self._current_question.hint, keyboard=DEFAULT_KEYBOARD)
 
     def give_up(self):
-        self._add_text('Ну ладно, ответ: ' + self._current_question.answer)
+        self._score -= 1
+        self._add_message('Ну ладно, ответ: ' + self._current_question.answer)
         self.next_question()
 
     def has_messages(self):
@@ -144,8 +184,9 @@ class Game:
 class BotBase:
     games = {}
 
-    def __init__(self, storage: QuestionStorage):
+    def __init__(self, storage: QuestionStorage, platform):
         self.question_storage = storage
+        self.platform = platform
 
     def handle_text(self, chat_id, text, send_output):
         games = self.games
@@ -159,8 +200,9 @@ class BotBase:
                 game.next_question()
             if game.is_over():
                 del games[chat_id]
+
         else:
-            game = Game(self.question_storage)
+            game = Game(self.question_storage, '{}_{}'.format(self.platform, chat_id))
             games[chat_id] = game
             game.next_question()
         while game.has_messages():
@@ -172,6 +214,9 @@ class BotBase:
 
 
 class TelegramBot(BotBase):
+    def __init__(self, storage):
+        super().__init__(storage, 'tg')
+
     def run(self):
         def send_message(bot, chat_id, game_message: GameMessage):
             if game_message.photo:
@@ -184,7 +229,10 @@ class TelegramBot(BotBase):
                 bot.send_message(
                     chat_id=chat_id,
                     text=game_message.text,
-                    reply_markup=ReplyKeyboardMarkup(game_message.keyboard, resize_keyboard=True) if game_message.keyboard else None,
+                    reply_markup=ReplyKeyboardMarkup(
+                        game_message.keyboard,
+                        resize_keyboard=True,
+                        one_time_keyboard=True) if game_message.keyboard else None,
                     parse_mode=ParseMode.MARKDOWN
                 )
 
@@ -204,6 +252,9 @@ class TelegramBot(BotBase):
         updater.start_polling()
 
 class VkBot(BotBase):
+    def __init__(self, storage):
+        super().__init__(storage, 'vk')
+
     def _authorize(self):
         params = self._call_vk_method('groups.getLongPollServer', params={'group_id': VK_GROUP_ID})
 
@@ -252,7 +303,7 @@ class VkBot(BotBase):
         for line in msg_keyboard:
             vk_keyboard.append([{'action': {'type': 'text', 'label': value}} for value in line])
         return json.dumps({
-            'one_time': False,
+            'one_time': True,
             'buttons': vk_keyboard
         }, separators=(',', ':'), ensure_ascii=False)
 
